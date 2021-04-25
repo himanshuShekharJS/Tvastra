@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "nexa-bold";
+  src: url(../fonts/Nexa-Bold.otf) format("truetype");
+}
+
+@font-face {
+  font-family: "nexa-light";
+  src: url(../fonts/Nexa-Light.otf) format("truetype");
+}
+
+$dark-blue: #021433;
+$light-gray: #cccccc;
+$gray: #a9a9a9;
+$dark-gray: #787878;
+$gray-original: #d3d3d3;
+$lightest-shades-of-gray: #f1f1f1;
+$blue: #0173b2;
+$light-blue: #93bede;
+$dark-blue-gradient: #030313e8 10%;
+$transparent-gradient: #ffffff00;
+$primary-font: nexa-bold;
+$secondary-font: nexa-light;
+$light-blue-gradient: hsla(204, 51%, 65%, 0.8);
+$custom-select-arrow-btn-background: #f1f0ee;
+$dark-blue-shadow: #02143352;
+$white: #ffffff;
+$hamburger-color: #525659;
